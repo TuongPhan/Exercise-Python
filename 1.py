@@ -49,5 +49,3 @@ class Info:
 
 info = Info()
 info.turn_yrs()
-
-print("TTT")
